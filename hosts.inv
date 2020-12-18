@@ -1,7 +1,0 @@
-localhost-py3 ansible_host=localhost ansible_connection=local ansible_python_interpreter=/usr/bin/python3
-[DEV]
-dev01 ansible_host=172.31.35.55
-dev02 ansible_host=172.31.43.118
-
-[WEB]
-web1  ansible_host=localhost 
