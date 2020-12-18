@@ -1,6 +1,5 @@
 ---
 - name: "EC2 Lanuncher"
-  hosts: localhost
   connection: local
   become: yes
   tasks:
