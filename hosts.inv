@@ -3,4 +3,5 @@ dev01 ansible_host=172.31.35.55
 dev02 ansible_host=172.31.43.118
 
 [WEB]
-web1  ansible_host=172.31.42.74 ansible_python_interpreter= /usr/bin/python
+web1  ansible_host=172.31.42.74 
+ansible_python_interpreter= /usr/bin/python
